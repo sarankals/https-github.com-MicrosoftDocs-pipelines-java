@@ -1,0 +1,6 @@
+resources:
+  repositories:
+    - repository: pipelinesJava
+      type: git
+      name: MicrosoftDocs/pipelines-java
+      ref: main
